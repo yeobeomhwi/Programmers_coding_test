@@ -1,3 +1,5 @@
+package Level_1
+
 class Leverl_1_Watermelon {
     fun solution(n: Int): String {
         var answer = ""

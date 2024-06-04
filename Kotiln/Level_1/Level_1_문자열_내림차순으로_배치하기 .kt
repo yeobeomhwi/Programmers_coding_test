@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_Arrange_strings_in_descending_order {
     fun solution(s: String): String {
         return s.toList().sortedDescending().joinToString("")

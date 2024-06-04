@@ -1,4 +1,4 @@
-
+package Level_1
 class Level_1_array_of_numbers_that_fall_apart {
     fun solution(arr: IntArray, divisor: Int): IntArray {
         val answerList = mutableListOf<Int>()

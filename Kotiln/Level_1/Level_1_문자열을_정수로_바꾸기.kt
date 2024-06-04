@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val s = "1234"
     val solution = Level_1_Replace_string_with_an_integer()

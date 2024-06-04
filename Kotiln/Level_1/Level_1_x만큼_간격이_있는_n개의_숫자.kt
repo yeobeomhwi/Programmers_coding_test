@@ -1,4 +1,4 @@
-
+package Level_1
 fun main() {
     val solution = Level_1_N_numbers_spaced_apart_by_x()
     val result1 = solution.solution(2, 5)

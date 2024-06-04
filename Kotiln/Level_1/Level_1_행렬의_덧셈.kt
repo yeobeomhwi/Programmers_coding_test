@@ -1,3 +1,5 @@
+package Level_1
+
 class Solution {
     fun solution(arr1: Array<IntArray>, arr2: Array<IntArray>): Array<IntArray> {
         val answer = Array(arr1.size) { IntArray(arr1[0].size) }

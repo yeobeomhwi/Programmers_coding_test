@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_K_number {
     fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
         var answer = IntArray(commands.size)

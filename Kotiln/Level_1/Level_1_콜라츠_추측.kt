@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_Colatz_Guess {
     fun solution(num: Int): Int {
         var n = num

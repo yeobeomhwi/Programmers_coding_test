@@ -1,3 +1,5 @@
+package Level_1
+
 fun main(args: Array<String>) {
     val(a, b) = readLine()!!.split(' ').map(String::toInt)
     var row = "*".repeat(a)

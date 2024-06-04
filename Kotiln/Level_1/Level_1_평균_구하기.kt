@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val n: IntArray = intArrayOf(1, 2, 3, 4)
     val solution = Level_1_Find_the_average()

@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val n = 12
     val solution = Level_1_Find_a_number_whose_remainder_is_1()

@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val n = 13
     val solution = Level_1_Harshad_Number()

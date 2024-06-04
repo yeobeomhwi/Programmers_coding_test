@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val solution = Level_1_Highest_and_lowest_lotto_rankings()
 

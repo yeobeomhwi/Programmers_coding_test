@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val absolutes = intArrayOf(4, 7, 12)
     val signs = booleanArrayOf(true, false, true)

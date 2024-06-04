@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val n: Long = 12345
     val solution = Level_1_Flip_natural_numbers_into_array()

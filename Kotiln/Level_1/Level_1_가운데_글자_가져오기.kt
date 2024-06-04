@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_Get_middle_letter {
     fun solution(s: String): String {
         var ss = s.length / 2

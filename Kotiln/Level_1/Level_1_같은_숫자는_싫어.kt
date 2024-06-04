@@ -1,3 +1,5 @@
+package Level_1
+
 fun main() {
     val arr1 = intArrayOf(1, 1, 3, 3, 0, 1, 1)
     val arr2 = intArrayOf(4, 4, 4, 3, 3)

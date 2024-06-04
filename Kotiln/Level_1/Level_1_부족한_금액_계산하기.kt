@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_Calculate_your_shortfall {
     fun solution(price: Int, money: Int, count: Int): Long {
         var answer: Long = 0

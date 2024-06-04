@@ -1,3 +1,5 @@
+package Level_1
+
 class Level_1_sum_between_two_integers {
     fun solution(a: Int, b: Int): Long {
         val min = minOf(a, b)
